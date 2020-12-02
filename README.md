@@ -15,6 +15,6 @@
 
 # Para rodar a aplicação
 
-- Mude nome do banco de dados para um de sua preferência em /app/Db/Database.php, ou crie um banco nomeado host-vagas;
+- Mude nome do banco de dados para um de sua preferência em /app/Db/Database.php, ou crie um banco nomeado host_vagas;
 - Rode o comando __composer install__ para adicionar o vendor/autoload.php;
 - Inicie um servidor local de sua preferencia e rode a apliação.
